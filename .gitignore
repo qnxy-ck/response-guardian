@@ -1,0 +1,5 @@
+# 项目排除路径
+/response-guardian-common/target/
+/response-guardian-demo/demo-mvc/target/
+/response-guardian-webflux-spring-boot-starter/target/
+/response-guardian-webmvc-spring-boot-starter/target/
